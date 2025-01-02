@@ -41,7 +41,7 @@ I am a passionate developer with a love for creating innovative solutions and le
 
 ### ✨ Projects
 - **[Project 1]
-- **Learning Management System with Special Education Idenr Toll:** [SunhillLMS](https://sunhilllms.online/)
+- **Learning Management System with Special Education Idenr Tool:** [SunhillLMS](https://sunhilllms.online/)
 ---
 
 ### 💬 Let's Connect
