@@ -8,11 +8,10 @@ I am a passionate developer with a love for creating innovative solutions and le
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Azure, Google Cloud
+- **Languages:** Python, JavaScript
+- **Frameworks:** React, Django,
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git
 
 ---
 
@@ -28,31 +27,23 @@ I am a passionate developer with a love for creating innovative solutions and le
 ---
 
 ### 🌱 Currently Learning
-- Rust
-- Machine Learning with TensorFlow
-- Advanced Kubernetes
+- Machine Learning
+- AI
 
 ---
 
 ### 📫 How to reach me
-- **Email:** urielfruelda@example.com
+- **Email:** urielfruelda@gmail.com
 - **LinkedIn:** [Uriel Fruelda](https://www.linkedin.com/in/urielfruelda)
-- **Twitter:** [@urielfruelda](https://twitter.com/urielfruelda)
+- **Instagram:** [@uye_fruelda](https://www.instagram.com/uye_fruelda/profilecard/?igsh=MWVzMzJzcmIyYmw1Yg==)
 
 ---
 
 ### ✨ Projects
-- **[Project 1](https://github.com/urielfruelda/project1)**: A brief description of Project 1.
-- **[Project 2](https://github.com/urielfruelda/project2)**: A brief description of Project 2.
-- **[Project 3](https://github.com/urielfruelda/project3)**: A brief description of Project 3.
-
----
-
-### 📄 Blog Posts
-- [How to Get Started with Kubernetes](https://medium.com/@urielfruelda/get-started-with-kubernetes-123456)
-- [Building Scalable Applications with AWS](https://medium.com/@urielfruelda/building-scalable-applications-with-aws-123456)
-
+- **[Project 1]
+- **Learning Management System with Special Education Idenr Toll:** [SunhillLMS](https://sunhilllms.online/)
 ---
 
 ### 💬 Let's Connect
 Feel free to reach out to me for collaboration or just to say hi!
+
