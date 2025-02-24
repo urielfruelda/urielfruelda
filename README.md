@@ -9,7 +9,7 @@ I am a passionate developer with a love for creating innovative solutions and le
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript
-- **Frameworks:** React, Django,
+- **Frameworks:** React, Django
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git
 
@@ -34,7 +34,7 @@ I am a passionate developer with a love for creating innovative solutions and le
 
 ### 📫 How to reach me
 - **Email:** urielfruelda@gmail.com
-- **LinkedIn:** [Uriel Fruelda](https://www.linkedin.com/in/urielfruelda)
+- **LinkedIn:** [Uriel Fruelda](https://www.linkedin.com/in/ernan-uriel-fruelda-54b87434a/)
 - **Instagram:** [@uye_fruelda](https://www.instagram.com/uye_fruelda/profilecard/?igsh=MWVzMzJzcmIyYmw1Yg==)
 
 ---
